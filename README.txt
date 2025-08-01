@@ -1,46 +1,42 @@
-Parallelism by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# AI Photo Showcase
 
+This is a portfolio-style website designed to showcase AI-generated images using the **Parallelism** template by [HTML5 UP](https://html5up.net). The layout offers a bold, modern design tailored for visual storytelling, perfect for presenting photography or generative art.
 
-It's done! Parallelism was an idea I mocked up a few months ago but, due to other
-committments, didn't get around to putting to code until recently. Different to
-my more general-purpose freebies, this one's specifically built for portfolio use
-with a very unique look/layout. Hope you enjoy it!
+## 🌐 Live Site
 
-Demo images* are courtesy of the supremely talented photographer Felicia Simion.
-If you like photography or just enjoy being blown away by awesome stuff, check
-out her portfolio for more stunning images:
+👉 [View the AI Photo Showcase](https://soursnappleog.github.io/AI_Photo_Showcase/)
 
-http://ineedchemicalx.deviantart.com/
+## 🔍 Project Purpose
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+This site serves as a digital gallery for displaying AI-generated imagery with a sleek, responsive layout. Inspired by professional photography portfolios, the goal is to provide an immersive and engaging browsing experience.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## 📁 Folder Structure
 
-AJ
-aj@lkn.io | @ajlkn
+- `index.html` – Main entry point for the site  
+- `assets/` – Stylesheets, JavaScript, fonts, and theme files  
+- `images/` – Folder to store your showcased AI-generated images  
 
+## 🖼️ Template Info
 
-Credits:
+**Parallelism** by [HTML5 UP](https://html5up.net)  
+Designed by [@ajlkn](https://twitter.com/ajlkn)  
+Free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license)
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-			"Pasadena" (ineedchemicalx.deviantart.com/art/Pasadena-357650036)
-			"Your really got me" (ineedchemicalx.deviantart.com/art/You-really-got-me-345249340)
-			"Ad Infinitum" (ineedchemicalx.deviantart.com/art/Ad-infinitum-354203162)
-			"Different." (ineedchemicalx.deviantart.com/art/Different-353708988)
-			"Elysium" (ineedchemicalx.deviantart.com/art/Elysium-355393900)
-			"Kingdom of the Wind" (ineedchemicalx.deviantart.com/art/Kingdom-of-the-Wind-348268044)
-			"The Pursuit" (ineedchemicalx.deviantart.com/art/The-Pursuit-355003425)
-			"Boundless" (ineedchemicalx.deviantart.com/art/Boundless-291831118)
-			"The Spectators" (ineedchemicalx.deviantart.com/art/The-Spectators-342155982)
+This template was specifically built for portfolio use and features a unique visual layout. It was adapted to present AI art in a minimal and professional format.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 📸 Image Credits (Original Demo)
 
-	Other:
-		jQuery (jquery.com)
-		normalizeWheel (@miorel + @pieterv of Facebook)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The demo images used in the original Parallelism template were created by **Felicia Simion** and are **not included** in this version. If you'd like to explore her work, visit her [DeviantArt portfolio](http://ineedchemicalx.deviantart.com/).
+
+## 🛠️ Dependencies & Credits
+
+- [Font Awesome](https://fontawesome.com) – Icon library  
+- [jQuery](https://jquery.com) – JavaScript framework  
+- [normalizeWheel](https://github.com/facebookarchive/normalizeWheel) – Scroll behavior polyfill by @miorel and @pieterv  
+- [Responsive Tools](https://github.com/ajlkn/responsive-tools) – Utility scripts for layout responsiveness
+
+---
+
+## 💬 Feedback
+
+Bug reports, suggestions, and feedback are welcome. Feel free to open an issue or contact me directly.
